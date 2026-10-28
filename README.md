@@ -1,6 +1,7 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Leah Erb
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+Freshman at UTSA Intreested in cybersecurity and technology, Learning Git, GitHub, and Linux
+7 Enjoy gaming, music, and exploring new tech
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +14,11 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"Success comes from consistent effort and continuous learning."_
+## Favorite Quote
+"Success comes from consistent effort and continuous learning."
+## Connect With Me
+GitHub: https://github.com/LeahErb08  LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN 
+## Current Goals
+ Build technical skills in cybersecurity, Learn more about version control and GitHub
+- Complete my first semester successfully
